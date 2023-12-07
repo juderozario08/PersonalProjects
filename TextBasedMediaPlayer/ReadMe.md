@@ -25,6 +25,6 @@ However, the error messages might be a little bit different.
   <li>search (uses the title of an audio content to search the content)</li>
   <li>searchg (Uses a genre to pick list the songs)</li>
   <li>download(Uses a range to download songs from)</li>
-  <li><downloada(Uses the name of an artist to download a song)/li>
+  <li>downloada(Uses the name of an artist to download a song)</li>
   <li>downloadg(Uses a genre to download a song)</li>
 </ul>
