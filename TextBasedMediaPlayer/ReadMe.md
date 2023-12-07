@@ -1,6 +1,10 @@
 Full name: Jude Rozario
 Student number: 501166063
 
+This project shows a thorough understanding of object-oriented programming and the concepts included 
+with it, for example, Inheritance, Interface, Abstraction, etc. It also involves fast search time for 
+example HashMaps and File I/O.
+
 These are all the functions that work as intended. 
 However, the error messages might be a little bit different.
 
