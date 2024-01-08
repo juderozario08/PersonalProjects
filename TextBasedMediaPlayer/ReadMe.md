@@ -1,9 +1,28 @@
-## Text-Based Media Player
-
-This project shows a thorough understanding of object-oriented programming and the concepts included with it, for example, Inheritance, Interface, Abstraction, etc. It also involves fast search time for example HashMaps and File I/O.
-
+<h1>Welcome to my Google Scheduler script !!!</h1>
+<p>The purpose of this picture was to automate adding my shifts to my google calendar automatically.</p>
+<p>
+  I used Java to do this project. The purpose of this project is to perfectly demonstrate the use of classes and using 
+  abstraction for making a program that is as modular and accessible as possible.
+</p>
+<ul>
+  In this project I had to:
+  <li>
+    Leveraged search and sort algorithms, along with fundamental logic-based functions, to develop a
+    sophisticated text-based music program that emulates popular music applications such as Spotify or
+    Apple Music
+  </li>
+  <li>
+    Demonstrates proficiency in Object-Oriented Programming (OOP), leveraging design patterns to
+    develop an efficient and scalable system and using proper abstraction methods
+  </li>
+  <li>
+    Effectively implemented a hash map to optimize search functionality, significantly enhancing the overall
+    performance of the system
+  </li>
+</ul>
 
 <ul>
+  The project has these functions that can be used:
   <li>store (show all the audio content available that has been read from the file)</li>
   <li>songs (only shows all the downloaded songs in the library)</li>
   <li>books (shows all the audiobooks that has been downloaded)</li>
