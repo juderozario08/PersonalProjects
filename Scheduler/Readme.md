@@ -13,16 +13,16 @@
   Then using the API create an event and then push it to that specific date and time on my calendar.
 </p>
 <ul>
-  In this project I:
+  In this project I had to:
   <li>
-    Designed and implemented image processing technique for text extraction from images, employing File 
+    Design and implement an image processing technique for text extraction from images, employing File 
     I/O for data storage
   </li>
   <li>
-    Developed a parsing algorithm to extract essential information from processed files
+    Develop a parsing algorithm to extract essential information from processed files
   </li>
   <li>
-    Integrated Google Calendar API to automate task creation and insertion into the calendar for enhanced
+    Integrate the Google Calendar API to automate task creation and insertion into the calendar for enhanced
     accessibility
   </li>
 </ul>
