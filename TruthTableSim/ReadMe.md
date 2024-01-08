@@ -10,14 +10,14 @@
 In this project I had to:
 <ul>
   <li>
-    Created a program that utilizes Boolean algebra to simulate a truth table, employing advanced parsing
+    Create a program that utilizes Boolean algebra to simulate a truth table, employing advanced parsing
     techniques to mitigate errors arising from user input
   </li>
   <li>
-    Implemented an algorithm to check if two different logical statements are equivalent, demonstrating a
+    Implement an algorithm to check if two different logical statements are equivalent, demonstrating a
     comprehensive understanding of logic and algorithm design.
   </li>
   <li>
-    Demonstrated a clear understanding of loops, logical conditions and File I/O
+    Demonstrate a clear understanding of loops, logical conditions and File I/O
   </li>
 </ul>
