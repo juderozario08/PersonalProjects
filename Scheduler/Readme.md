@@ -13,7 +13,7 @@
   Then using the API create an event and then push it to that specific date and time on my calendar.
 </p>
 <ul>
-  <p>Here I: </p>
+Here I:
   <li>
     Designed and implemented image processing technique for text extraction from images, employing File 
     I/O for data storage
