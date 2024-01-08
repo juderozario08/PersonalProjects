@@ -4,8 +4,8 @@
   Language used in this project was <b>Java</b> to do this project. The purpose of this project is to perfectly demonstrate the use of classes and using 
   abstraction for making a program that is as modular and accessible as possible.
 </p>
+In this project I had to:
 <ul>
-  In this project I had to:
   <li>
     Leveraged search and sort algorithms, along with fundamental logic-based functions, to develop a
     sophisticated text-based music program that emulates popular music applications such as Spotify or
