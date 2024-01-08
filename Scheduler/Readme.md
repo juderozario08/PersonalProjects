@@ -2,9 +2,7 @@
 <p>The purpose of this picture was to automate adding my shifts to my google calendar automatically.</p>
 <p>
   The language used in this project was <b>Python</b>. It uses the 
-  <a href="https://developers.google.com/calendar/api/guides/overview">
-    Google Calendar API
-  </a> 
+  <a href="https://developers.google.com/calendar/api/guides/overview">Google Calendar API</a> 
   and the 
   <a href="https://pypi.org/project/pytesseract/">
     Pytessaract library
