@@ -1,22 +1,22 @@
 <h1>Welcome to my Text-Based Music Program !!!</h1>
 <p>The purpose of this picture was to simulate a music program like spotify or apple music only through text.</p>
 <p>
-  Language used in this project was <b>Java</b> to do this project. The purpose of this project is to perfectly demonstrate the use of classes and using 
-  abstraction for making a program that is as modular and accessible as possible.
+  Language used in this project was <b>Java</b>. The purpose of this project is to perfectly demonstrate the use of
+  classes and using abstraction for making a program that is as modular and accessible as possible.
 </p>
 In this project I had to:
 <ul>
   <li>
-    Leveraged search and sort algorithms, along with fundamental logic-based functions, to develop a
+    Leverage search and sort algorithms, along with fundamental logic-based functions, to develop a
     sophisticated text-based music program that emulates popular music applications such as Spotify or
     Apple Music
   </li>
   <li>
-    Demonstrates proficiency in Object-Oriented Programming (OOP), leveraging design patterns to
+    Demonstrate proficiency in Object-Oriented Programming (OOP), leveraging design patterns to
     develop an efficient and scalable system and using proper abstraction methods
   </li>
   <li>
-    Effectively implemented a hash map to optimize search functionality, significantly enhancing the overall
+    Effectively implement a hash map to optimize search functionality, significantly enhancing the overall
     performance of the system
   </li>
 </ul>
