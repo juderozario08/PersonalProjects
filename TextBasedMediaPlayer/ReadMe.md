@@ -1,7 +1,7 @@
 <h1>Welcome to my Text-Based Music Program !!!</h1>
 <p>The purpose of this picture was to simulate a music program like spotify or apple music only through text.</p>
 <p>
-  I used Java to do this project. The purpose of this project is to perfectly demonstrate the use of classes and using 
+  Language used in this project was <b>Java</b> to do this project. The purpose of this project is to perfectly demonstrate the use of classes and using 
   abstraction for making a program that is as modular and accessible as possible.
 </p>
 <ul>
