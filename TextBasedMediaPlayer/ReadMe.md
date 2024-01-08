@@ -22,7 +22,7 @@
 </ul>
 
 <ul>
-  The project has these functions that can be used:
+  <b>The project has these functions that can be used:</b>
   <li>store (show all the audio content available that has been read from the file)</li>
   <li>songs (only shows all the downloaded songs in the library)</li>
   <li>books (shows all the audiobooks that has been downloaded)</li>
