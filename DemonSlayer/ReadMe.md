@@ -5,20 +5,21 @@
   to create a simple clicking game application.
 </p>
 <p>
-  Language used in this project was <b>Python</b>. The purpose of this project is to demonstrate the accurate parsing of 
-  user input before using it for data analysis and generating results from it.  
+  Language used in this project was <b>Java</b>.  
 </p>
 In this project I had to:
 <ul>
   <li>
-    Create a program that utilizes Boolean algebra to simulate a truth table, employing advanced parsing
-    techniques to mitigate errors arising from user input
+    Designed and developed a game using the Java JFrame GUI, showcasing proficiency in user interface
+    design and development
   </li>
   <li>
-    Implement an algorithm to check if two different logical statements are equivalent, demonstrating a
-    comprehensive understanding of logic and algorithm design.
+    Forged captivating gameplay engagement by meticulously designing intricate game mechanics that
+    prompted players to execute precise button-clicking actions, resulting in a truly immersive and
+    captivating gaming experience
   </li>
   <li>
-    Demonstrate a clear understanding of loops, logical conditions and File I/O
+    Incorporated music, images, and UI design to enhance the player experience, showcasing a
+    comprehensive understanding of user-centred design principles
   </li>
 </ul>
