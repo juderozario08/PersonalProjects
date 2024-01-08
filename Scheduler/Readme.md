@@ -1,7 +1,7 @@
 <h1>Welcome to my Google Scheduler script !!!</h1>
 <p>The purpose of this picture was to automate adding my shifts to my google calendar automatically.</p>
 <p>
-  I used Python to do this project. It uses the 
+  The language used in this project was <b>Python</b>. It uses the 
   <a href="https://developers.google.com/calendar/api/guides/overview">
     Google Calendar API
   </a> 
