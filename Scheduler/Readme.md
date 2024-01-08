@@ -12,8 +12,8 @@
   to scan the pictures and gather the information required to create an event on the calendar. 
   Then using the API create an event and then push it to that specific date and time on my calendar.
 </p>
+<b>In this project I had to:</b>
 <ul>
-  In this project I had to:
   <li>
     Design and implement an image processing technique for text extraction from images, employing File 
     I/O for data storage
